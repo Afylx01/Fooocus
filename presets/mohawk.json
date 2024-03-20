@@ -42,6 +42,7 @@
         "SAI Anime"
     ],
     "default_aspect_ratio": "1344*768",
+    "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "MOHAWK_v20BackedVAE.safetensors": "https://huggingface.co/n0madic/MOHAWK_v20BakedVAE/resolve/main/MOHAWK_v20BackedVAE.safetensors"
     },
