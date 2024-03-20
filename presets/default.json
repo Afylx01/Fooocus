@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,16 +34,22 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
+    "default_advanced_checkbox": true,
+    "default_max_image_number": 100,
+    "default_output_format": "webp",
+    "default_image_number": 1,
+    "default_save_metadata_to_images": true,
+    "default_metadata_scheme": "fooocus",
+    "metadata_created_by": "Afylx",
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
+        "SAI Anime"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1344*768",
+    "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
