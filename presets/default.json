@@ -49,7 +49,7 @@
     "default_aspect_ratio": "1344*768",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-X_RunDiffusionPhoto.safetensors": "https://civitai.com/api/download/models/456194"
+        "Juggernaut-X_RunDiffusionPhoto.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
