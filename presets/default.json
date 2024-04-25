@@ -35,7 +35,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_advanced_checkbox": true,
-    "default_max_image_number": 100,
+    "default_max_image_number": 1000,
     "default_output_format": "webp",
     "default_image_number": 1,
     "default_save_metadata_to_images": true,
