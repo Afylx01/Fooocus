@@ -1,12 +1,12 @@
 {
-    "default_model": "Juggernaut-X_RunDiffusionPhoto.safetensors",
+    "default_model": "JuggernautX.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            "MJ5-2.safetensors",
+            0.6
         ],
         [
             true,
@@ -44,12 +44,13 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "SAI Anime"
+        "SAI Anime",
+        "Fooocus Semi Realistic"
     ],
     "default_aspect_ratio": "1344*768",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-X_RunDiffusionPhoto.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+        "JuggernautX.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
