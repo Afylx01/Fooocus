@@ -1,5 +1,5 @@
     {
-    "default_model": "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors",
+    "default_model": "ColorfulXL-Lightning.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,12 +39,12 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "SAI Anime"
+        "SAI Negative"
     ],
-    "default_aspect_ratio": "1344*768",
+    "default_aspect_ratio": "768*1344",
     "default_overwrite_step": 5,
     "checkpoint_downloads": {
-       "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-Lightning/resolve/main/Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors?download=true"
+       "ColorfulXL-Lightning.safetensors": "https://huggingface.co/recoilme/ColorfulXL-Lightning/resolve/main/ColorfulXL-Lightning.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
