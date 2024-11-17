@@ -1,5 +1,5 @@
     {
-    "default_model": "ColorfulXL-Lightning.safetensors",
+    "default_model": "Juggernaut-XI-byRunDiffusion-Lightning.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "768*1344",
     "default_overwrite_step": 5,
     "checkpoint_downloads": {
-       "ColorfulXL-Lightning.safetensors": "https://huggingface.co/recoilme/ColorfulXL-Lightning/resolve/main/ColorfulXL-Lightning.safetensors"
+       "Juggernaut-XI-byRunDiffusion-Lightning.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-Lightning/resolve/main/Juggernaut-XI-byRunDiffusion-Lightning.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
